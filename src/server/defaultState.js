@@ -1,7 +1,7 @@
 export const defaultState = {
-  // session: {
-  //   authenticated: false
-  // },
+  session: {
+    authenticated: false
+  },
   users: [
     {
       id: "U1",
